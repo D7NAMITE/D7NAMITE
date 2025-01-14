@@ -32,9 +32,6 @@ Software and Knowledge Engineering, Kasetsart University, Bangkok, Thailand (KU8
 ### Hardware & IoT  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
 
-### Miscellaneous  
-![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-
 
 
 ## 📊 GitHub Stats:
