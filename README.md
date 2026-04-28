@@ -1,7 +1,7 @@
 # **👋 Hello, I'm [D7NAMITE](https://github.com/D7NAMITE)** 
 You can call me **Nanthawat**, but most of my friends call me **Boom**
 
-## **🎓 Currently studying**
+## **🎓 Education**
 Software and Knowledge Engineering, Kasetsart University, Bangkok, Thailand (KU82/SKE20)
 
 ## 🌐 Socials:
